@@ -17,4 +17,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3871-count-commas-in-range-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 <!---LeetCode Topics End-->
