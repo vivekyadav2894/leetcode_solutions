@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0605-can-place-flowers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
