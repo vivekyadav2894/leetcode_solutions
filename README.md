@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -30,6 +31,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Euclidean Algorithm
@@ -59,6 +61,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -72,4 +75,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
