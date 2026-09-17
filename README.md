@@ -10,11 +10,13 @@
 | [0605-can-place-flowers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -79,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
