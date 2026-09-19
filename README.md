@@ -47,14 +47,17 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -95,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
