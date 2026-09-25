@@ -33,12 +33,14 @@
 | [0151-reverse-words-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Euclidean Algorithm
