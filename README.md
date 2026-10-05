@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
@@ -41,6 +42,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
