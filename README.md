@@ -50,6 +50,7 @@
 | [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -140,4 +141,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 <!---LeetCode Topics End-->
