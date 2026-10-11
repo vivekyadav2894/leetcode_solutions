@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
@@ -135,10 +136,12 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -148,4 +151,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
