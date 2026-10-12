@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -85,6 +86,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
