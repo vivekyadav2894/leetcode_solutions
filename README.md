@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1051-height-checker/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -35,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
@@ -127,6 +129,7 @@
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1051-height-checker](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1051-height-checker/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
