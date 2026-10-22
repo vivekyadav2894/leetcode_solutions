@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
+| [0231-power-of-two](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
@@ -104,6 +105,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0326-power-of-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
@@ -125,6 +127,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Sorting
