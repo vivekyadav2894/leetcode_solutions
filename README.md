@@ -49,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -102,6 +103,7 @@
 | [0217-contains-duplicate](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -192,6 +194,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -209,4 +212,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
