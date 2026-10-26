@@ -23,6 +23,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -178,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
