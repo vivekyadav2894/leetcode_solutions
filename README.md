@@ -16,6 +16,7 @@
 | [0455-assign-cookies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0697-degree-of-an-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -105,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0697-degree-of-an-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
