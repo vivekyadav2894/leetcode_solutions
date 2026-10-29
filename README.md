@@ -42,6 +42,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0844-backspace-string-compare](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -53,6 +54,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
+| [0844-backspace-string-compare](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
@@ -159,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0844-backspace-string-compare](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Brainteaser
