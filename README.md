@@ -20,6 +20,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1051-height-checker/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -44,6 +45,7 @@
 | [0455-assign-cookies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
@@ -152,6 +154,7 @@
 | [0414-third-maximum-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1051-height-checker/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
