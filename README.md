@@ -22,6 +22,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1051-height-checker/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -71,6 +72,7 @@
 | [0504-base-7](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0877-stone-game](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vivekyadav2894/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
